@@ -1,26 +1,14 @@
 {
   "response": [
     {
-      "maintainer": "Jiro",
-      "currently_maintained": true,
-      "oem": "POCO",
-      "device": "beryllium",
+      "datetime": 1767855163,
       "filename": "Lunaris-AOSP-beryllium-Community-3.6-Gapps-2026010806.zip",
-      "download": "https://sourceforge.net/projects/poco-f1-by-ky-thien/files/4.19/Lunaris-AOSP/Lunaris-AOSP-beryllium-Community-3.6-Gapps-2026010806.zip/download",
-      "timestamp": 1767855163,
-      "md5": "bd3eab5d1f20d2d9d423ba68c37167f4",
-      "sha256": "5ecd6d782455d0e9ad6170084f7486b12dfb596c3aa07a8cb6ecea6cc2ea4aad",
+      "id": "5ecd6d782455d0e9ad6170084f7486b12dfb596c3aa07a8cb6ecea6cc2ea4aad",
+      "romtype": "UNOFFICIAL",
       "size": 2439901200,
-      "version": "3.6",
-      "buildtype": "user",
-      "forum": "https://t.me/ktdisscution",
-      "firmware": "https://xmfirmwareupdater.com/firmware/beryllium",
-      "paypal": "https://www.paypal.me/trumtihon",
-      "github": "jiro28",
-      "sourceforge": "jiro688",
-      "initial_installation_images": [
-        ""
-      ]
+      "url": "https://sourceforge.net/projects/poco-f1-by-ky-thien/files/4.19/Lunaris-AOSP/Lunaris-AOSP-beryllium-Community-3.6-Gapps-2026010806.zip/download",
+      "version": "3.6"
     }
   ]
 }
+
