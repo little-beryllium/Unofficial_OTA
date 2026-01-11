@@ -1,6 +1,12 @@
 Changelog
 =========
 
+11/01/2026
+----------
+-upstream kernel from Ducky
+-Rebase Dt
+
+
 08/01/2026
 ----------
  test OTA
